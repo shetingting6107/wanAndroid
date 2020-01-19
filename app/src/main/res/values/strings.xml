@@ -1,0 +1,19 @@
+<resources>
+    <string name="app_name">wanAndroidTest</string>
+
+    //title
+    <string name="first_title">This is FirstActivity</string>
+    <string name="second_title">This is SecondActivity</string>
+
+    //button label
+    <string name="btn_add">ADD</string>
+    <string name="btn_remove">REMOVE</string>
+    <string name="btn_clean">CLEAN</string>
+
+    //text
+    <string name="text_fixed">这是第</string>
+    <string name="text_add">这是添加的项</string>
+
+    //toast
+    <string name="toast_no_item_to_remove">列表中没有子项可以移除！</string>
+</resources>
